@@ -68,4 +68,5 @@ Team Member Signatures:
 Xien Han
 Yunzi Li
 
-Ale Benavides Loo 
+Ale Benavides Loo
+Shivam Bavaria
