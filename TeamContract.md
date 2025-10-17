@@ -67,7 +67,7 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 Team Member Signatures:
 Xien Han
 Yunzi Li
-
+Xiaoshuai Liu
 Ale Benavides Loo
 Shivam Bavaria
 Zoe Henry
